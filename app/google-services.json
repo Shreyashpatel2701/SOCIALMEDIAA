@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905795217029",
+    "project_id": "mybizbook-911bb",
+    "storage_bucket": "mybizbook-911bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905795217029:android:d514f16117cc4fe2522bec",
+        "android_client_info": {
+          "package_name": "com.example.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905795217029-6l8jenj16acbb5lv9paf3dhlk7bnfrmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJWpHjxsZZ0fk-PPrwyU8hJSWgixA1nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905795217029-6l8jenj16acbb5lv9paf3dhlk7bnfrmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
